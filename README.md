@@ -3,6 +3,8 @@
 This is a **Streamlit-based chatbot** that allows users to upload PDFs and ask questions about the content. It runs **entirely locally**, meaning no API costs, no internet requirements, and full privacy.
 
 ---
+## Workflow
+![Alt Text](RAG_PDF_Github.png)
 
 ## Features
 - 📂 Upload multiple PDFs
